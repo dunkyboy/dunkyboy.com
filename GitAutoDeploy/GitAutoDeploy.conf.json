@@ -3,6 +3,6 @@
 	"repositories": 
 	[{
 		"url": "https://github.com/dunkyboy/dunkyboy.com",
-		"path": "~/public_html/github/dunkyboy.com"
+		"path": "/home2/dunkyboy/public_html/github/dunkyboy.com"
 	}]
 }
